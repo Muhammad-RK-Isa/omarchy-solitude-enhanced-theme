@@ -4,10 +4,7 @@
 hl.config({
   general = {
     col = {
-      active_border = {
-        colors = { "rgba(101315ee)", "rgba(101315ee)", "rgba(101315ee)", "rgba(798186ee)", "rgba(798186ee)", "rgba(798186ee)", "rgba(798186ee)", "rgba(798186ee)" },
-        angle = 90,
-      },
+      active_border = "rgba(798186ee)",
       inactive_border = "rgb(1e1e1e)",
     },
     gaps_in = 4,
@@ -16,19 +13,16 @@ hl.config({
   },
   group = {
   col = {
-    border_active = {
-      colors = { "rgba(798186ee)", "rgba(101315ee)", "rgba(101315ee)", "rgba(798186ee)" },
-      angle = 90,
-    },
+    border_active = "rgba(798186ee)",
     border_inactive = "rgb(101315)",
   },
   groupbar = {
     col = {
-      active = "rgba(79818688)",
-      inactive = "rgba(101315aa)",
+      active = "rgba(00000040)",
+      inactive = "rgba(00000020)",
     },
-    text_color = "rgb(101315)",
-    text_color_inactive = "rgba(798186aa)",
+    text_color = "rgb(ffffff)",
+    text_color_inactive = "rgba(ffffff90)",
   },
 },
   decoration = {
