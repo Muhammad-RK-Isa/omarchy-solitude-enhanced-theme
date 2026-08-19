@@ -5,23 +5,23 @@
     --adw-accent-rgb: 121, 129, 134 !important;
 
 	/* destructive-action buttons */
-    --adw-destructive-bg-rgb: 86, 93, 96 !important;
-    --adw-destructive-fg-rgb: 202, 204, 204 !important;
-    --adw-destructive-rgb: 86, 93, 96 !important;
+    --adw-destructive-bg-rgb: 199, 108, 91 !important;
+    --adw-destructive-fg-rgb: 16, 19, 21 !important;
+    --adw-destructive-rgb: 199, 108, 91 !important;
 
 	/* Levelbars, entries, labels and infobars. These don't need text colors */
-    --adw-success-bg-rgb: 159, 165, 169 !important;
+    --adw-success-bg-rgb: 143, 175, 135 !important;
     --adw-success-fg-rgb: 16, 19, 21 !important;
-    --adw-success-rgb: 159, 165, 169 !important;
+    --adw-success-rgb: 143, 175, 135 !important;
 
-    --adw-warning-bg-rgb: 201, 194, 180 !important;
+    --adw-warning-bg-rgb: 194, 169, 109 !important;
     --adw-warning-fg-rgb: 16, 19, 21 !important;
     --adw-warning-fg-a: 0.8 !important;
-    --adw-warning-rgb: 201, 194, 180 !important;
+    --adw-warning-rgb: 194, 169, 109 !important;
 
-    --adw-error-bg-rgb: 86, 93, 96 !important;
+    --adw-error-bg-rgb: 199, 108, 91 !important;
     --adw-error-fg-rgb: 16, 19, 21 !important;
-    --adw-error-rgb: 86, 93, 96 !important;
+    --adw-error-rgb: 199, 108, 91 !important;
 
 	/* Window */
     --adw-window-bg-rgb: 16, 19, 21 !important;

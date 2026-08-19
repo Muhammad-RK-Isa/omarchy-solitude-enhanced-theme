@@ -1,4 +1,4 @@
-# Omarchy Quattro surfaces for Solitude.
+# Omarchy Quattro surfaces for Solitude Enhanced.
 # Opaque charcoal panels, a quiet vertical steel gradient, and a restrained
 # translucent steel selection preserve the theme's sparse monochrome character.
 
@@ -36,7 +36,7 @@ selected-fill-alpha = 0.20
 selected-border-width = 1
 selected-border-alpha = 0.52
 
-pressed-color = "#DE6145"
+pressed-color = "#798186"
 pressed-fill-alpha = 0.24
 selection-color = "#798186"
 selection-fill-alpha = 0.38
@@ -77,7 +77,7 @@ text = "#CACCCC"
 border = "hyprland.active-border"
 border-alpha = 1.0
 border-width = 2
-countdown = "#DE6145"
+countdown = "#798186"
 
 [launcher]
 background = "#101315"
@@ -115,9 +115,9 @@ selected-border-width = 0
 background = "#101315"
 background-alpha = 1.0
 text = "#CACCCC"
-text-error = "#DE6145"
+text-error = "#C76C5B"
 border = "hyprland.active-border"
-border-error = "#DE6145"
+border-error = "#C76C5B"
 border-alpha = 1.0
 border-width = 2
 scrim = "#101315"
@@ -129,10 +129,10 @@ background = "#101315"
 background-alpha = 1.0
 text = "#CACCCC"
 placeholder = "#CACCCCB3"
-text-error = "#DE6145"
+text-error = "#C76C5B"
 border = "hyprland.active-border"
 border-active = "hyprland.active-border"
-border-error = "#DE6145"
+border-error = "#C76C5B"
 border-alpha = 1.0
 border-width = 2
 selection = "#343D41"

@@ -1,2 +1,11 @@
 @define-color background #101315;
 @define-color foreground #cacccc;
+@define-color muted #4b4e55;
+@define-color accent #798186;
+@define-color red #c76c5b;
+@define-color green #8faf87;
+@define-color yellow #c2a96d;
+@define-color orange #b9825f;
+@define-color blue #7897ab;
+@define-color cyan #7fa9a4;
+@define-color magenta #a78aa3;
