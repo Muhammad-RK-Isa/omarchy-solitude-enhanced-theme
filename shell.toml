@@ -1,5 +1,5 @@
 # Omarchy Quattro surfaces for Solitude Enhanced.
-# Opaque charcoal panels, a solid steel border, and a restrained
+# Opaque charcoal panels, a quiet steel gradient, and a restrained
 # translucent steel selection preserve the theme's sparse monochrome character.
 
 [bar]
@@ -12,7 +12,7 @@ size-horizontal = 26
 size-vertical = 28
 
 [hyprland]
-active-border = "#798186"
+active-border = "rgba(798186ee) rgba(caccccee) 45deg"
 active-border-foreground = "#CACCCC"
 
 [controls]
