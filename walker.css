@@ -4,7 +4,6 @@
 @define-color border #a3a6a7;
 @define-color foreground #cacccc;
 @define-color background #101315;
-@define-color accent #798186;
 
 
 window * {
@@ -70,6 +69,5 @@ window .preview {
 }
 
 child:selected .item-box {
-    color: @foreground;
-    background-color: alpha(@accent, 0.24);
+    background-color: @base;
 }
