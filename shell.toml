@@ -44,10 +44,6 @@ selection-fill-alpha = 0.38
 [spacing]
 scale = 1.0
 scale-with-font = true
-xs = 2
-md = 4
-control-padding-y = 5
-panel-padding = 10
 
 [font]
 base-size = 12
